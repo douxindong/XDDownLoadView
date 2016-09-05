@@ -1,2 +1,2 @@
-# downLoadView
-自定义downLoadView动画效果
+# XDDownLoadView
+自定义XDDownLoadView动画效果
