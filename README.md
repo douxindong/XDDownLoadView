@@ -170,7 +170,7 @@
 ### 所有方法预览
 ![images](https://raw.githubusercontent.com/Josin22/JSDownloadView/master/JSDownloadViewDemo/Source/download_all.png)
 
-方法比较多,在这不一一展示了,有感兴趣的童鞋可以直接去[github下载](https://github.com/Josin22/JSDownloadView),记得点个星星哦~~~😜
+方法比较多,在这不一一展示了,有感兴趣的童鞋可以直接去[github下载](https://github.com/douxindong/XDDownLoadView.git),记得点个星星哦~~~😜
 
 ## 调用
 添加事件
